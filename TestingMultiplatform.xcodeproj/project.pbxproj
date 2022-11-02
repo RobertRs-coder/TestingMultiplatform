@@ -24,6 +24,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		230DF0012912FCFF00983CA2 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		23295DE22910CE7000CBA02A /* TestingMultiplatform.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestingMultiplatform.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		23295DE52910CE7000CBA02A /* TestingMultiplatformApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestingMultiplatformApp.swift; sourceTree = "<group>"; };
 		23295DE72910CE7000CBA02A /* EmployeesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmployeesView.swift; sourceTree = "<group>"; };
@@ -60,6 +61,7 @@
 		23295DD92910CE7000CBA02A = {
 			isa = PBXGroup;
 			children = (
+				230DF0012912FCFF00983CA2 /* README.md */,
 				23295DE42910CE7000CBA02A /* TestingMultiplatform */,
 				23295E002910D1E900CBA02A /* watchOS Watch App */,
 				23295DE32910CE7000CBA02A /* Products */,
